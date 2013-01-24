@@ -5,4 +5,4 @@ A Visual Studio 2005/2008 add-in that deletes indent size blank space characters
 
 Installation
 ============
-Download the zip file and extract the contents(.dll and .addin) into "%USERPROFILE%\Documents\Visual Studio 2008\Addins" (for VS 2005 please change accordingly) directory.
+Download the [zip file](bit.ly/WQAJor) and extract the contents(.dll and .addin) into "%USERPROFILE%\Documents\Visual Studio 2008\Addins" (for VS 2005 please change accordingly) directory.
